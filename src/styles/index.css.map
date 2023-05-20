@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["global.scss","../components/Box/styles.scss","../components/BoxTitle/styles.scss","../components/ShowKeys/styles.scss"],"names":[],"mappings":"AAAQ;AAGR;EACI;;;AAEJ;EACI;EACA;EACA;EACA;EACA;;;AAEJ;EACI;;;ACdJ;EACI;EACA;EACA;EACA;EACA;EACA;;;ACNJ;EACI;;AAEA;EACI;EACA;EACA;EACA;EACA;EACA;;;ACTR;EACI;EACA;;AACA;EACI","file":"index.css"}
